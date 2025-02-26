@@ -1,9 +1,0 @@
-{
-  "name": "web-server",
-  "version": "1.0.0",
-  "description": "Servidor web simple con Node.js",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
-}
